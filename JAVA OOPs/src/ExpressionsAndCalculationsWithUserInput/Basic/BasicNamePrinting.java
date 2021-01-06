@@ -1,4 +1,4 @@
-package ExpressionsAndCalculationsWithUserInput;
+package ExpressionsAndCalculationsWithUserInput.Basic;
 
 public class BasicNamePrinting {
 

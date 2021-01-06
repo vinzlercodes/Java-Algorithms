@@ -1,4 +1,4 @@
-package HelloWorld;
+package TextPrinting.Advanced;
 
 public class JavaPrintText {
     // main method begins execution of the Java Class

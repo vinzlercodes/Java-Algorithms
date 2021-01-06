@@ -1,4 +1,4 @@
-package ExpressionsAndCalculationsWithUserInput;
+package ExpressionsAndCalculationsWithUserInput.Advanced;
 
 import java.util.Scanner;
 

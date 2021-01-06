@@ -1,4 +1,4 @@
-package HelloWorld;
+package TextPrinting.Basic;
 
 public class HelloWorld
 {
